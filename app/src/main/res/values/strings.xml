@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculador Celu</string>
+    <string name="empty_error">Completa el nombre del producto, la cantidad y el precio.</string>
+    <string name="invalid_quantity">La cantidad debe ser mayor a cero.</string>
+    <string name="invalid_price">El precio debe ser mayor a cero.</string>
+    <string name="pdf_saved">Comprobante guardado en PDF</string>
+    <string name="total_format">Total: %1$s</string>
+</resources>
